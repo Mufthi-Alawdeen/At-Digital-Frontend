@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../Components/Header";
-import Bg from "../Assests/Images/Hero Image.svg"; // Ensure the path to your image is correct
+import Bg from "../Assests/Images/Hero Image.svg";
 import Button from "../Components/Button";
 import PC from "../Assests/Images/PC.svg";
 import Search from "../Assests/Images/Search.svg";

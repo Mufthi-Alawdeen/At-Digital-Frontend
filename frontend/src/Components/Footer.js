@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../Assests/Images/Logo.svg"; // Ensure the path to your logo is correct
+import Logo from "../Assests/Images/Logo.svg";
 
 const Footer = () => {
   return (

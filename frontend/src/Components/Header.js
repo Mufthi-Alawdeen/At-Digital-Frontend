@@ -29,7 +29,6 @@ const Header = () => {
           onClick={toggleMenu} // Toggle mobile menu on click
         >
           <img src={menuIcon} alt="Menu Icon" className="w-6 h-6" />{" "}
-          {/* Use the imported SVG */}
         </button>
 
         {/* Desktop Navigation Links */}
