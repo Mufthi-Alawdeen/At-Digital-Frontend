@@ -17,3 +17,29 @@ code {
 }
 
 
+@font-face {
+  font-family: 'Inter'; /* Name you will use to reference the font */
+  src: url('./Assests/Fonts/Inter_24pt-Medium.ttf') format('truetype'); /* Adjust the path based on your structure */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter-Bold'; /* Name you will use to reference the font */
+  src: url('./Assests/Fonts/Inter_18pt-Medium.ttf') format('truetype'); /* Adjust the path based on your structure */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Poppins-SemiBold'; /* Name you will use to reference the font */
+  src: url('./Assests/Fonts/Poppins-SemiBold.ttf') format('truetype'); /* Adjust the path based on your structure */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato'; /* Name you will use to reference the font */
+  src: url('./Assests/Fonts/Lato-Regular.ttf') format('truetype'); /* Adjust the path based on your structure */
+  font-style: normal;
+}
+
+
+
